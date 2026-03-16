@@ -14,9 +14,11 @@ b. Cost effective
 c. Better Service
 ### UML DIAGRAMS:
 
-
-
-
+![alt text](<Screenshot 2026-03-15 135227.png>)
+![alt text](<Screenshot 2026-03-15 135239.png>)
+![alt text](<Screenshot 2026-03-15 135248.png>)
+![alt text](<Screenshot 2026-03-15 135306.png>)
+![alt text](<Screenshot 2026-03-15 135306-1.png>)
 
 ### RESULT:
 Thus the Student information system project was executed and the output was
